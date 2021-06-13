@@ -1,0 +1,28 @@
+  
+[
+    {
+      "id": 1,
+      "header": "What is Reading Companion?",
+      "body": "Reading Companion is a web-based literacy service that offers a wide variety of stories and texts in French. \n\nIt is an exciting and fun web-based literacy solution!"
+    },
+    {
+      "id": 2,
+      "header": "What is the purpose of Reading Companion?",
+      "body": "Worldwide, children and adults alike struggle to read. \n\nThere are a lot of reasons for which a person might be unable to read or finds great difficulty in the task at hand. The difficulties faced when reading vary from impoverished exposure to the source language, text length to complex vocabulary. \n\nOne of the demanding tasks in reading tasks is finding suitable texts in terms of difficulty. \n\nThe solution of the system at hand comes in defining and controlling those variables to find suitable reading material for the user depending on their reading level and objectives."
+    },    
+    {
+      "id": 3,
+      "header": "What are the features of Reading Companion?",
+      "body": "Currently, Reading Companion is still in development. TBC"
+    },
+    {
+      "id": 4,
+      "header": "Why read in French?",
+      "body": "French is the second most-widely taught language after English, with most of the world’s French speaking population residing in Africa. \n\nIt is the fastest growing language on the African continent in terms of official and foreign language. \n\nHowever, literacy in African countries roughly averages 70%. \n\nIncreasing literacy skills demands practice and exposure to reading material. Reading helps expand vocabulary and shows the reader correct use of idioms and clauses.  A study has also shown that reading strengthens brain connectivity. Furthermore, reading researchers found that regular readers, starting at a young age, gradually develop large vocabularies. \n\nVocabulary size and language fluency can impact many areas of life, from standardized scores to admissions in jobs and colleges."
+    },
+    {
+      "id": 5,
+      "header": "How do I get started?",
+      "body": "Simply sign-up with your e-mail, create an account and get access to the gallery of texts."
+    }
+  ]
